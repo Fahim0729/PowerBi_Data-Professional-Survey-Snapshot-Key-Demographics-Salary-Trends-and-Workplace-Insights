@@ -1,12 +1,11 @@
 ## 📊 Data Professional Survey Analysis: Key Demographics, Salary Trends, and Workplace Insights
 
-##### 🟩 This survey offers a detailed view of data professionals, demographics, salary trends, programming interests, and general job satisfaction in their work to show the major trends and information in the field.
-
+##### 🟩 This survey offers a detailed view of data professionals, demographics, salary trends, programming interests, and overall job satisfaction, highlighting key trends in the field.
 ---
 
 🛠️ **Tools Used**
 
-- **Power BI:** Dashboarding and visual analysis (Card, Line, Area, Stacked Column, Pie, Gauge, Treemap)
+- **Power BI:** Dashboard development and visual analysis (Card, Line, Area, Stacked Column, Pie, Gauge, Treemap)
 
 - **Power Query & DAX:** Data cleaning, transformation, and calculated metrics (e.g., Average Salary)
 
