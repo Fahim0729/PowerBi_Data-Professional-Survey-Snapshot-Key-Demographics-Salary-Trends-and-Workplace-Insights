@@ -66,18 +66,18 @@ Following are the key findings of the survey:
 
 🟩 Country Participation: The **United States** is the most responsive nation with **261** responses. **Canada** had the fewest respondents.
 
-🟩 Gender pay gap: he gender distribution is almost balanced (Male: 50.81, Female: 49.19), but the average salary of males is slightly higher, indicating that there is a slight but existing gender pay gap in this survey group.
+🟩 Gender pay gap: The gender distribution is almost balanced (Male: 50.81, Female: 49.19), but the average salary of males is slightly higher, indicating that there is a slight but existing gender pay gap in this survey group.
 
 🟩 Age vs Salary Satisfaction: 
-- The greatest changes in happiness are observed in **younger and mid-career professionals** who have ratings between **3 and 8** out of 10.
+- The most notable changes in happiness are observed in **younger and mid-career professionals** who have ratings between **3 and 8** out of 10.
 - **Older respondents (aged 66 and above)** is much more stable, as the rating of happiness is around **5 out of 10**.
 
 🟩 Programming Language Preferences: **Python** is the overwhelming favorite. On the other end of the spectrum, **Java** was identified as the least popular language in this survey.
 
 🟩 Workplace Satisfaction: 
-- **Work/Life Balance:** Received a moderate average rating of **5.74/10**.
+- **Work/Life Balance** is received a moderate average rating of **5.74/10**.
 
-- **Coworker Relationships:** is rated slightly higher, at **5.86 out of 10**.
+- **Coworker Relationships** is given a slightly higher average rating of **5.86 out of 10**.
 
 ---
 
